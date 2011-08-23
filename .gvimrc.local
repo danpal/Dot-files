@@ -1,0 +1,25 @@
+"set the contrast hig for solarized
+let g:solarized_contrast="high"
+
+"Set the background to dark for solarized
+set background=dark
+
+"Set the fontsize to bigger and consolas
+set guifont=Consolas\ Bold:h13
+
+"molokai as default color
+colorscheme molokai
+
+"In command-t open files by default in new tab
+let g:CommandTAcceptSelectionMap = '<C-t>' "CTRL+T open in current tab
+let g:CommandTAcceptSelectionTabMap = '<CR>' "Return open in new tab
+
+autocmd FileType java :setlocal sw=4 ts=4 sts=4 " Four spaces for Java files "
+
+"For vim wiki
+set nocompatible 
+filetype plugin on 
+syntax on 
+
+
+
