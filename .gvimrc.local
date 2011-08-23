@@ -20,6 +20,8 @@ autocmd FileType java :setlocal sw=4 ts=4 sts=4 " Four spaces for Java files "
 set nocompatible 
 filetype plugin on 
 syntax on 
-
+"enable folding
+let g:vimwiki_folding = 1
+let g:vimwiki_fold_lists = 1
 
 

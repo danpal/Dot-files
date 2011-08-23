@@ -1,5 +1,26 @@
-= My Knowledge base = 
-  * MyUrgentTasks -- things to be done _yesterday_!!!
-  * ProjectGutenberg -- good books are power.
-  * ScratchPad -- various temporary stuff.
+= Todo items = 
+  * [X] set the domains
+    * [X] point mail.authy.com to Google SSO
+    *  [X] point api.authy.com to to the api
+   [ ] Work on the authy SSO sign in page
 
+= How to fold/unfold =
+  * zo: open fold under the curso
+  * zO: open under cursor recursively
+  * zc: close under the cursor
+  * zC: close under recursively
+  * za: toggle open/close
+  * zR: Open all fold
+  * zM: close all folds 
+
+= Google Domain name settings =
+  * Settings-Links
+  * Mails Needed 
+    * contact-domains@authy.com
+    * d@authy.com
+    * gleb@authy.com 
+    *   
+
+= Authy initial keys setup =
+#<Device id: 1, secret_seed: "a5a80384c6ede14a08d30b9e4fb7fa5a"
+#<Device id: 2, secret_seed: "30abf43340fc7b3a8e15bdf777ee860b",  
