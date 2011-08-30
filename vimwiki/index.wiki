@@ -1,8 +1,7 @@
 = Todo items = 
-  * [X] set the domains
-    * [X] point mail.authy.com to Google SSO
-    *  [X] point api.authy.com to to the api
-   [ ] Work on the authy SSO sign in page
+  * [ ] Set a "accounts" model that describe the accounts
+  * [ ] Account for twitter
+  * [ ] set a user dashboard
 
 = How to fold/unfold =
   * zo: open fold under the curso
@@ -22,5 +21,7 @@
     *   
 
 = Authy initial keys setup =
+
 #<Device id: 1, secret_seed: "a5a80384c6ede14a08d30b9e4fb7fa5a"
 #<Device id: 2, secret_seed: "30abf43340fc7b3a8e15bdf777ee860b",  
+

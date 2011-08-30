@@ -39,3 +39,7 @@ export DYLD_LIBRARY_PATH="$MAGICK_HOME/lib"
 
 #RVM
 alias railsrc_rvm="rvm use 1.9.2@railsrc --create --rvmrc"
+
+#authy
+alias otp="ruby ~/mykey.rb"
+

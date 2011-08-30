@@ -16,10 +16,19 @@ let g:CommandTAcceptSelectionTabMap = '<CR>' "Return open in new tab
 
 autocmd FileType java :setlocal sw=4 ts=4 sts=4 " Four spaces for Java files "
 
+"ruby editing
+autocmd FileType ruby setlocal foldmethod=syntax
+set foldlevel=100               " Open all folds by default
+
+
+
+"autocmd Syntax c,cpp,vim,xml,html,xhtml,perl normal zR
+
 "For vim wiki
 set nocompatible 
 filetype plugin on 
 syntax on 
+
 "enable folding
 let g:vimwiki_folding = 1
 let g:vimwiki_fold_lists = 1
