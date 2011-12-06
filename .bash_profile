@@ -29,7 +29,7 @@ alias db='git difftool --tool=opendiff $1 $2'
 alias railsdev='cd /Users/dani/Development/rails_project/'
 alias cardeal='cd /Users/dani/Development/rails_project/Groupy'
 alias autodeal='cd /Users/dani/Development/rails_project/getautodeal'
-#Rails Settings
+alias authy="cd /Users/dani/Development/authy"
 
 #imageMagick
 export MAGICK_HOME="$HOME/ImageMagick-6.6.4"
@@ -43,3 +43,7 @@ alias railsrc_rvm="rvm use 1.9.2@railsrc --create --rvmrc"
 #authy
 alias otp="ruby ~/mykey.rb"
 
+#commanline vim
+set -o vi
+
+#authy

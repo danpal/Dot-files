@@ -1,11 +1,24 @@
-= Todo items = 
-  * [ ] Set a "accounts" model that describe the accounts
-  * [ ] Account for twitter
-  * [ ] set a user dashboard
+= Todo =
+  
+  * [ ] Employment agreement (YCombinator and Cooley)
+  * [ ] Purchase Agreement (YCombinator and Cooley)
+  * [ ] Get a bank account. (YCombinator, Silicon Valley Bank or Square One)
+  * [ ] H1B visa and lawyer ( YCombinator )
+  * [ ] Accounting (YCombinator)
+  * [ ] Patents (YCombinator)
+
+
+  * [ ] Discuss with Cooley our current debt
+  * [ ] Calculate to then reimburse the costs of travel for YC interview.
+  * [ ] Fund gary(gleb)
+
+  * [ ] Bally Total Fitness and NYC sports club
+  
+
+  
 
 = How to fold/unfold =
   * zo: open fold under the curso
-  * zO: open under cursor recursively
   * zc: close under the cursor
   * zC: close under recursively
   * za: toggle open/close
@@ -24,4 +37,148 @@
 
 #<Device id: 1, secret_seed: "a5a80384c6ede14a08d30b9e4fb7fa5a"
 #<Device id: 2, secret_seed: "30abf43340fc7b3a8e15bdf777ee860b",  
+
+= Authy last Week =
+
+- End-to-End android app (Marketplace)
+- Twitter integration with Google Apps ( 2 accouts downloads )
+- Set pivotal 
+- Discuss development strategy
+
+= Plata que mi papa me debe =
+
+800 dolares de la venta del laptop
+3,700,000 Derco
+1,340.13 (Laptop apple navidad)
+90 de las barberas
+
+= Go to market strategy =
+
+- Twitter with celebrities.
+- Through our advisors.
+- Build the consumer and business side.
+- Partner with existing security consulting companies.
+- Palantir, start slow, get certified, establish some ground then snowball.
+
+= Ask =
+
+- $350,000 convertible note
+- YCombinator in the Winter ( Gary Tan, Alexis Ohanian(reddit), tarj haggar, Robert Morris (glebs academic advisor))
+- Lead by an establish new york VC firm
+
+= Razors =
+
+1. Dovo Best Quality (ok)
+2. Thiers Issard AOS (done honing)
+3. Filarmonica #13 (Try one more shave)
+4. Filarmonica #12 Black (needs honing at the toe)
+5. FIlarmonica #12 Blue 
+6. Tennis Fritz Bacht (done honing)
+7. Puma #91 (perfection)
+8. Boker Super Hollow Ground (needs a bit of honing at 8K)
+
+= VC's =
+
+1. Lerer Ventures
+2. Peter Thiel
+3. Fred Wilson
+4. Get meetings on California 
+5. Ron Conway
+6. Talk shaherose
+7. Andreseen horowitz, accel partners
+8. Angellist
+9. Adam from true ventures and brand from the foundry grup
+
+= Authorization in the Rails App =
+
+1. User can manage all accounts except those mark as SAML.
+  - Better just manage all accounts that he has setup except those he can't (use an array to manage this permission)
+2. If user is domain_admin he can manage(create, delete, modify) google apps accounts (admin panel)
+
+= Notes for YC Application =
+
+* FROM PAUL GRAHAM (http://ycombinator.com/howtoapply.html)
+  1. most important question
+    Please tell us in one or two sentences about something impressive that each founder has built or achieved.
+    To me this is the most important question on the application. It's deliberately open-ended; there's no one type
+    of answer we're looking for. It could be that you did really well in school, or that you wrote a highly-regarded
+    piece of software, or that you paid your own way through college after leaving home at 16. It's not the type of 
+    achievement that matters so much as the magnitude. Succeeding in a startup is, in the most literal sense, extraordinary,
+    so we're looking for people able to do extraordinary things.
+
+  2. What makes you distinct
+    It's a common mistake to say the distinctive thing about your solution will be that it's well-designed and easy to use. 
+    That is not an insight. You're just claiming you're going to execute well. Whoever wrote the current software was presumably
+    also trying to. So you have to be more specific. Exactly what are you going to do that will make your software easier to use? 
+    And will that be enough? The reason a lot of big companies' software sucks is that they have some kind of natural monopoly. 
+    Unless you have a plan for cracking it, it won't make any difference if yours is better.
+
+    
+* FROM GARRY TAN
+
+  Seems good, but you could probably just be more to the point. 
+
+  => Google provides 2 factor authentication because its secure. In fact most
+  people will provide it, and we're going to be the way to do it. 
+
+  The other thing to address is how big you think the thing will be. Is it
+  something that all people will use? What are all the possible and realistic
+  uses for this? What are other websites or services that use it currently, how
+  would you supplant those, and/or how would you introduce it to new websites or
+  applications? 
+
+For the video
+    
+  You guys need to look more determined. Happy is good, but determined is more
+  important. Your cofounder stumbled on a few words, so I would make sure
+  everything is very clear and concise.
+ 
+
+
+= Angel list =
+
+- TRACTION: who are our customers, how are we going to acquire them. 
+- Gleb Bio
+- A bit more on tech.
+- Details of the API.
+- Get someone notable commited.
+- Other deal terms how much they have commited.
+- 
+
+
+= YC Combinator first meeting =
+
+- http://www.archub.org/um
+- First YC dinner January 3
+- Create a founders@authy.com
+- SUCCESS = amount of stuff between 2 meetings with PG
+- PROTOTYPE DAY: 2nd week of jan
+- Demo day: March 20
+- SVB: Most founder friendly bank
+- Clerky and Hellofax
+
+
+= Expenses that authy reimburse dan =
+
+- Tickets to YC interview: $640
+- Sending check to apartment rental: $54
+- Apartment rental deposit check: $700
+- Apple Store Glebs monitor: $1088
+- Travel to NY for YC interview: $760
+- Hosting expenses: $100
+- 2 Checks cashier: $20
+- Fedex 2: $53
+- Rent for 4 months: $12640
+- Keyboard: 113
+- Mouse: 93
+- USB port 67.48
+
+= Expenses to reimburse gleb =
+
+- Tickets from cali to new york: $490
+- Car Rental in SF: $345
+- Domain Name: $600
+- Height Adjustable Desks: $1507
+-
+
 
