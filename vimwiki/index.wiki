@@ -163,7 +163,6 @@ For the video
 - Tickets to YC interview: $640
 - Sending check to apartment rental: $54
 - Apartment rental deposit check: $700
-- Apple Store Glebs monitor: $1088
 - Travel to NY for YC interview: $760
 - Hosting expenses: $100
 - 2 Checks cashier: $20
@@ -172,7 +171,21 @@ For the video
 - Keyboard: 113
 - Mouse: 93
 - USB port 67.48
-
+- morning mug 58
+- Trip from bogota to SF for YC 1427
+- wal mart: 37.51
+- railscast 27
+- dnsimple:  50
+- nakana rest: 116
+- fedex 19
+- UPS 14.26
+- virgin: 25
+- bed bath and beyond: 330
+- scoop and pither: 15
+- ice maker: 173.98
+- sublime: 140.70
+- Malouf: 60
+-
 = Expenses to reimburse gleb =
 
 - Tickets from cali to new york: $490
