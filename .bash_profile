@@ -32,9 +32,9 @@ alias autodeal='cd /Users/dani/Development/rails_project/getautodeal'
 alias authy="cd /Users/dani/Development/authy"
 
 #imageMagick
-export MAGICK_HOME="$HOME/ImageMagick-6.6.4"
-export PATH="$MAGICK_HOME/bin:$PATH"
-export DYLD_LIBRARY_PATH="$MAGICK_HOME/lib"
+# export MAGICK_HOME="$HOME/ImageMagick-6.6.4"
+# export PATH="$MAGICK_HOME/bin:$PATH"
+# export DYLD_LIBRARY_PATH="$MAGICK_HOME/lib"
 
 
 #RVM

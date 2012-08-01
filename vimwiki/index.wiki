@@ -15,8 +15,18 @@
   * [ ] Bally Total Fitness and NYC sports club
   
 
-  
+= Gleb stepping out =
 
+  *[ ] Parking gate sensor
+  *[ ] Keys
+  *[ ] Electric/internet bill
+  *[ ] SVBConnect
+  *[ ] Apple deployment
+  *[ ] Android deployment
+  *[ ] Blackberry deployment
+  *[ ] Pay any money we owe to Gleb
+   
+ 
 = How to fold/unfold =
   * zo: open fold under the curso
   * zc: close under the cursor
@@ -179,13 +189,18 @@ For the video
 - nakana rest: 116
 - fedex 19
 - UPS 14.26
-- virgin: 25
+- virgin mobile(2months): 50
 - bed bath and beyond: 330
-- scoop and pither: 15
+- scoop and pitcher for capuccino: 15
 - ice maker: 173.98
 - sublime: 140.70
-- Malouf: 60
+- Malouf pillow: 60
+- monitor dell: 380
+- hard drive: 100
+- moo printing business cards: 63.93
+- HEROKU 415-596-0956 CA	($8.17)
 -
+
 = Expenses to reimburse gleb =
 
 - Tickets from cali to new york: $490
