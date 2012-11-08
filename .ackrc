@@ -2,3 +2,6 @@
 html=.haml
 --type-add
 css=.sass,.scss,.rvmrc
+--type-add
+js=.coffee
+--ignore-dir=.metadata
